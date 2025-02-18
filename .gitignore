@@ -27,3 +27,13 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# STM32CubeIDE settings folder
+.settings/
+.metadata/
+*.launch
+Debug/
+Release/
+
+# VSCode settings
+.vscode/
